@@ -45,8 +45,7 @@ Escribo ocasionalmente en mi [blog](enlace al blog) sobre [temas específicos]. 
 Actualmente estoy estudiando Full Stack Developer en [4Geeks](https://4geeks.com) con el profesor [Hector Chocobar](https://github.com/hchocobar)
 
 ## Contacto
-
- <a href="mailto: carlos117@campigroup.es">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/xxcarlos117xx2/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a> <a href="https://twitter.com/xXcarlos117Xx2">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/xxcarlos117xx2/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a> <a href="https://twitter.com/xXcarlos117Xx2">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="mailto: carlos117@campigroup.es">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 Sitio Web: [campigroup.es](http://www.campigroup.es)
