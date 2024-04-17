@@ -48,7 +48,10 @@ Creo activamente en la importancia de compartir conocimientos y ayudar a otros a
 Escribo ocasionalmente en mi [blog](enlace al blog) sobre [temas específicos]. También, comparto recursos útiles y proyectos interesantes en [otra plataforma] o [redes sociales].
 --->
 ## Proyectos actuales
-Actualmente estoy estudiando Full Stack Developer en [4Geeks](https://4geeks.com) con el profesor [Hector Chocobar](https://github.com/hchocobar).  
+Proyectos propios como mapeado y modelado en 3D para VRChat
+
+## Proyectos terminados
+He estudiado Full Stack Developer en [4Geeks](https://4geeks.com) con el profesor [Hector Chocobar](https://github.com/hchocobar).  
 
 ## Contacto
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xxcarlos117xx2/)
