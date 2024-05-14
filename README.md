@@ -26,10 +26,10 @@ Soy Windows Insider desde el `14/02/2020`
 > - MySQL
 > - Flask
 > - React
-<!--- ## Experiencia
-- [Nombre de la Empresa / Proyecto] - [Breve descripción de tus responsabilidades y logros]
-- [Nombre de la Empresa / Proyecto] - [Breve descripción de tus responsabilidades y logros]
---->
+
+## Experiencia 💼
+- 4Geeks Academy - Teacher Assistant en la cohorte Spain-FS-PT-72
+
 <!---
 ## Proyectos Destacados
 - **[Nombre del Proyecto]** - Breve descripción del proyecto y tu contribución.
@@ -48,7 +48,8 @@ Creo activamente en la importancia de compartir conocimientos y ayudar a otros a
 Escribo ocasionalmente en mi [blog](enlace al blog) sobre [temas específicos]. También, comparto recursos útiles y proyectos interesantes en [otra plataforma] o [redes sociales].
 --->
 ## Proyectos actuales
-Proyectos propios como mapeado y modelado en 3D para VRChat
+- Proyectos propios como mapeado y modelado de mapas y avatares en 3D para VRChat.
+- Websites
 
 ## Proyectos terminados
 He estudiado Full Stack Developer en [4Geeks](https://4geeks.com) con el profesor [Hector Chocobar](https://github.com/hchocobar).  
