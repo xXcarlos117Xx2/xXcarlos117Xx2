@@ -29,7 +29,7 @@ Soy Windows Insider desde el `14/02/2020`
 
 ## 💼 Experiencia
 - 4Geeks Academy - Teacher Assistant en la cohorte Spain-FS-PT-72
-
+- Cesumin S.L. - Desarollador de Odoo
 <!---
 ## Proyectos Destacados
 - **[Nombre del Proyecto]** - Breve descripción del proyecto y tu contribución.
@@ -50,7 +50,9 @@ Escribo ocasionalmente en mi [blog](enlace al blog) sobre [temas específicos]. 
 ## Proyectos actuales
 - Proyectos propios como mapeado y modelado de mapas y avatares en 3D para VRChat.
 - Websites
-
+- 4Geeks Academy - Teacher Assistant en la cohorte Spain-FS-PT-72
+- Cesumin S.L. - Desarollador de Odoo
+  
 ## Proyectos terminados
 He estudiado Full Stack Developer en [4Geeks](https://4geeks.com) con el profesor [Hector Chocobar](https://github.com/hchocobar).  
 
