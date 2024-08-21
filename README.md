@@ -12,8 +12,10 @@ Soy Windows Insider desde el `14/02/2020`
 
 ### 📜 Lenguajes de Programación:
 > - SQF
+> - Java
 > - Javascript
 > - C++
+> - C#
 > - Phyton
 > - Ruby
 > - HTML/CSS
