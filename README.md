@@ -52,7 +52,7 @@ Escribo ocasionalmente en mi [blog](enlace al blog) sobre [temas específicos]. 
 ## Proyectos actuales
 - Proyectos propios como mapeado y modelado de mapas y avatares en 3D para VRChat.
 - Websites
-- 4Geeks Academy - Teacher Assistant en la cohorte Spain-FS-PT-72
+- 4Geeks Academy - Teacher Assistant
 - Cesumin S.L. - Desarollador de Odoo
   
 ## Proyectos terminados
