@@ -30,7 +30,10 @@ Soy Windows Insider desde el `14/02/2020`
 > - React
 
 ## 💼 Experiencia
-- 4Geeks Academy - Teacher Assistant en la cohorte Spain-FS-PT-72
+- 4Geeks Academy - Teacher Assistant
+  - Cohorte FS-PT-72
+  - Cohorte FS-PT-95
+  - Cohorte FS-PT-115
 - Cesumin S.L. - Desarollador de Odoo
 <!---
 ## Proyectos Destacados
