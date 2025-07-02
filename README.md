@@ -8,9 +8,9 @@ Mi vida ha sido la programación desde los 16 años, ya sea en Java, C++, Phytho
 He completado estudios en Microsistemas Informáticos y Redes, Programación de Sistemas Operativos, y el programa de Full Stack Developer en la academia [4Geeks](https://4geeks.com).  
 Soy Windows Insider desde el `14/02/2020`  
 
-**Si puedes imaginarlo, puedes programarlo.**
+> **Si puedes imaginarlo, puedes programarlo.**
 
-### 📜 Lenguajes de Programación:
+## 📜 Lenguajes de Programación:
 > - SQF
 > - Java
 > - Javascript
@@ -21,20 +21,42 @@ Soy Windows Insider desde el `14/02/2020`
 > - HTML/CSS
 > - MySQL
 
-### 🚀 Tecnologías:
-> - Bootstrap
-> - React Bootstrap
-> - GIT
-> - MySQL
-> - Flask
-> - React
+## 🚀 Tecnologías:
+> - React  
+> - Flask  
+> - Bootstrap / React Bootstrap  
+> - GIT  
+> - Odoo  
+> - VRChat SDK / Unity  
+> - Docker  
+> - PostgreSQL 
 
-## 💼 Experiencia
-- 4Geeks Academy - Teacher Assistant
-  - Cohorte FS-PT-72
-  - Cohorte FS-PT-95
-  - Cohorte FS-PT-115
-- Cesumin S.L. - Desarollador de Odoo
+## 💼 Experiencia Profesional
+
+### Casmar2000 (Actualmente)
+**Desarrollador de Odoo**  
+- Desarrollo y mantenimiento de módulos personalizados.
+- Optimización de procesos internos mediante automatizaciones y scripts.
+
+### 4Geeks Academy (Actualmente)  
+**Teacher Assistant**  
+- Apoyo a estudiantes en cohortes:
+  - FS-PT-72
+  - FS-PT-95
+  - FS-PT-115.  
+- Resolución de dudas, revisiones de código y mentorías técnicas.  
+
+### Cesumin S.L.  
+**Desarrollador de Odoo / Administrador de sistemas / DevOps**  
+- Desarrollo e implementación de módulos personalizados para Odoo.  
+- Automatización de procesos mediante scripts en Python y shell.  
+- Integración de datos entre Odoo y plataformas externas (CSV, FTP, APIs).  
+- Administración de servidores Linux (Debian/Ubuntu) y bases de datos PostgreSQL.  
+- Gestión de certificados, backups, cron jobs y acceso seguro (SSH, claves, túneles).  
+- Soporte técnico a usuarios y mantenimiento general del sistema.  
+- Coordinación con el equipo de sistemas para flujos críticos de stock y ventas.  
+- Documentación y mejora continua de infraestructura IT empresarial.
+
 <!---
 ## Proyectos Destacados
 - **[Nombre del Proyecto]** - Breve descripción del proyecto y tu contribución.
@@ -42,24 +64,23 @@ Soy Windows Insider desde el `14/02/2020`
 
 - **[Nombre del Proyecto]** - Breve descripción del proyecto y tu contribución.
   - Tecnologías utilizadas: [Lista de tecnologías utilizadas]
---->
 
-## Contribuciones Open Source
-Creo activamente en la importancia de compartir conocimientos y ayudar a otros a aprender. Por ello, en mi Gist, comparto códigos que he desarrollado y que considero útiles y reutilizables. Estos códigos están diseñados para ser de ayuda especialmente a los nuevos estudiantes de la academia [4Geeks](https://4geeks.com).  
-[![gist](http://img.shields.io/badge/Gist-%23000.svg?style=for-the-badge&logo=gist&logoColor=white)](https://gist.github.com/xXcarlos117Xx2)
-
-<!---
 ## Blog y Recursos
 Escribo ocasionalmente en mi [blog](enlace al blog) sobre [temas específicos]. También, comparto recursos útiles y proyectos interesantes en [otra plataforma] o [redes sociales].
 --->
-## Proyectos actuales
-- Proyectos propios como mapeado y modelado de mapas y avatares en 3D para VRChat.
-- Websites
-- 4Geeks Academy - Teacher Assistant
-- Cesumin S.L. - Desarollador de Odoo
+## 🎯 Proyectos Actuales
+- **VRChat**: Mapeado, modelado y optimización de mapas y avatares en 3D.  
+- **Campigroup**: Desarrollo y mantenimiento de sitios web de bajo coste para e-commerce.  
+- **Proyectos educativos**: Scripts y herramientas para alumnos de programación. 
   
-## Proyectos terminados
-He estudiado Full Stack Developer en [4Geeks](https://4geeks.com) con el profesor [Hector Chocobar](https://github.com/hchocobar).  
+## 🚧 Proyectos Terminados
+- Curso de Full Stack Developer en [4Geeks](https://4geeks.com) con [Héctor Chocobar](https://github.com/hchocobar) como instructor.  
+- Desarrollo y despliegue de soluciones completas con Flask + React.
+
+<!---
+## 🧠 Contribuciones Open Source
+Creo activamente en la importancia de compartir conocimientos y ayudar a otros a aprender. Por ello, en mi [Gists](https://gist.github.com/xXcarlos117Xx2), comparto códigos que he desarrollado y que considero útiles y reutilizables. Estos códigos están diseñados para ser de ayuda especialmente a los nuevos estudiantes de la academia [4Geeks](https://4geeks.com).
+--->
 
 ## 🪪 Contacto
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xxcarlos117xx2/)
