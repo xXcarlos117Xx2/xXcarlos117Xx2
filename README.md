@@ -33,12 +33,24 @@ Soy Windows Insider desde el `14/02/2020`
 
 ## 💼 Experiencia Profesional
 
-### Casmar2000 (Actualmente)
+### Odoo S.A.
+**Consultor funcional**
+
+- Análisis de necesidades de negocio y definición de soluciones estándar en Odoo.
+- Implementación de módulos clave
+- Configuración y parametrización de flujos empresariales siguiendo buenas prácticas del estándar.
+- Acompañamiento a clientes en proyectos de implantación (metodología QuickStart y despliegues progresivos).
+- Formación a usuarios finales y key users en el uso eficiente del sistema.
+- Identificación de gaps funcionales y propuesta de mejoras minimizando desarrollos a medida.
+- Colaboración con equipos técnicos para la correcta definición de requerimientos.
+- Soporte funcional post-implantación y optimización continua de procesos.
+
+### Casmar2000
 **Desarrollador de Odoo**  
 - Desarrollo y mantenimiento de módulos personalizados.
 - Optimización de procesos internos mediante automatizaciones y scripts.
 
-### 4Geeks Academy (Actualmente)  
+### 4Geeks Academy
 **Teacher Assistant**  
 - Apoyo a estudiantes en cohortes:
   - FS-PT-72
@@ -69,8 +81,10 @@ Soy Windows Insider desde el `14/02/2020`
 Escribo ocasionalmente en mi [blog](enlace al blog) sobre [temas específicos]. También, comparto recursos útiles y proyectos interesantes en [otra plataforma] o [redes sociales].
 --->
 ## 🎯 Proyectos Actuales
-- **VRChat**: Mapeado, modelado y optimización de mapas y avatares en 3D.  
-- **Campigroup**: Desarrollo y mantenimiento de sitios web de bajo coste para e-commerce.  
+- **VRChat**: Mapeado, modelado y optimización de mapas y avatares en 3D.
+<!--- 
+- **Campigroup**: Desarrollo y mantenimiento de sitios web de bajo coste para e-commerce.
+--->
 - **Proyectos educativos**: Scripts y herramientas para alumnos de programación. 
   
 ## 🚧 Proyectos Terminados
