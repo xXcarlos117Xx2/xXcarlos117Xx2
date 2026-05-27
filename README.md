@@ -55,7 +55,8 @@ Soy Windows Insider desde el `14/02/2020`
 - Apoyo a estudiantes en cohortes:
   - FS-PT-72
   - FS-PT-95
-  - FS-PT-115.  
+  - FS-PT-115
+  - FS-PT-128
 - Resolución de dudas, revisiones de código y mentorías técnicas.  
 
 ### Cesumin S.L.  
